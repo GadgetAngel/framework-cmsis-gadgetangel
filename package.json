@@ -1,0 +1,8 @@
+{
+  "name": "framework-cmsis-gadgetangel",
+  "description": "Vendor-independent hardware abstraction layer for the Cortex-M processor series",
+  "system": "*",
+  "license": "Apache-2.0",
+  "url": "...",
+  "version": "2.50501.200527"
+}
